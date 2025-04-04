@@ -45,9 +45,11 @@ sudo systemctl restart docker
 
 ## Start Container
 docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+
+sudo docker exec ollama ollama pull llama3.2
 ```
 
-### [Configuring RagFlow and Ollama](https://ragflow.io/docs/dev/deploy_local_llm)
+<!-- ### [Configuring RagFlow and Ollama](https://ragflow.io/docs/dev/deploy_local_llm)
 ```
 # Install chat and embedding model
 sudo docker exec ollama ollama pull llama3.2
@@ -56,10 +58,11 @@ sudo docker exec ollama ollama pull bge-m3
 # Ensure Ollama is accessible
 sudo docker exec -it ragflow-server bash
 root@8136b8c3e914:/ragflow# curl  http://host.docker.internal:11434/
-```
+``` -->
 
 
+### [Configuring Qdrant](https://qdrant.tech/documentation/quickstart/)
 ```
 docker pull qdrant/qdrant
-docker run -p 6333:6333 -p 6334:6334     -v "$(pwd)/qdrant_storage:/qdrant/storage:z"     qdrant/qdrant
+docker run -p 6333:6333 -p 6334:6334 -v "$(pwd)/qdrant_storage:/qdrant/storage:z" qdrant/qdrant
 ```
