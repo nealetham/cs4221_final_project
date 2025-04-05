@@ -1,0 +1,182 @@
+[
+  {
+    "filing_folder": "0001193125-13-212354",
+    "net_sales": "$561,792",
+    "fiscal_ending_date": "March 31, 2013"
+  },
+  {
+    "filing_folder": "0001193125-13-327916",
+    "net_sales": "$405,139",
+    "fiscal_ending_date": "June 30, 2013"
+  },
+  {
+    "filing_folder": "0001193125-13-435480",
+    "net_sales": "$431,346",
+    "fiscal_ending_date": "September 30, 2013"
+  },
+  {
+    "filing_folder": "0001193125-14-192606",
+    "net_sales": "$620,542",
+    "fiscal_ending_date": "March 31, 2014"
+  },
+  {
+    "filing_folder": "0001193125-14-303175",
+    "net_sales": "$769,349",
+    "fiscal_ending_date": "June 30, 2014"
+  },
+  {
+    "filing_folder": "0001193125-14-403635",
+    "net_sales": "$851,804",
+    "fiscal_ending_date": "September 30, 2014"
+  },
+  {
+    "filing_folder": "0001564590-15-003789",
+    "net_sales": "$939,880",
+    "fiscal_ending_date": "March 31, 2015"
+  },
+  {
+    "filing_folder": "0001564590-15-006666",
+    "net_sales": "$954,976",
+    "fiscal_ending_date": "June 30, 2015"
+  },
+  {
+    "filing_folder": "0001564590-15-009741",
+    "net_sales": "$936,789",
+    "fiscal_ending_date": "September 30, 2015"
+  },
+  {
+    "filing_folder": "0001564590-16-018886",
+    "net_sales": "$1,147,048",
+    "fiscal_ending_date": "March 31, 2016"
+  },
+  {
+    "filing_folder": "0001564590-16-023024",
+    "net_sales": "$1,270,017",
+    "fiscal_ending_date": "June 30, 2016"
+  },
+  {
+    "filing_folder": "0001564590-16-026820",
+    "net_sales": "$2,298,436",
+    "fiscal_ending_date": "September 30, 2016"
+  },
+  {
+    "filing_folder": "0001564590-17-009968",
+    "net_sales": "$2,696,270",
+    "fiscal_ending_date": "March 31, 2017"
+  },
+  {
+    "filing_folder": "0001564590-17-015705",
+    "net_sales": "$2,789,557",
+    "fiscal_ending_date": "June 30, 2017"
+  },
+  {
+    "filing_folder": "0001564590-17-021343",
+    "net_sales": "$2,984,675",
+    "fiscal_ending_date": "September 30, 2017"
+  },
+  {
+    "filing_folder": "0001564590-18-011086",
+    "net_sales": "$3,408,751",
+    "fiscal_ending_date": "March 31, 2018"
+  },
+  {
+    "filing_folder": "0001564590-18-019254",
+    "net_sales": "$4,002,231",
+    "fiscal_ending_date": "June 30, 2018"
+  },
+  {
+    "filing_folder": "0001564590-18-026353",
+    "net_sales": "$6,824,413",
+    "fiscal_ending_date": "September 30, 2018"
+  },
+  {
+    "filing_folder": "0001564590-19-013462",
+    "net_sales": "$4,541,464",
+    "fiscal_ending_date": "March 31, 2019"
+  },
+  {
+    "filing_folder": "0001564590-19-026445",
+    "net_sales": "$6,349,676",
+    "fiscal_ending_date": "June 30, 2019"
+  },
+  {
+    "filing_folder": "0001564590-19-038256",
+    "net_sales": "$6,303",
+    "fiscal_ending_date": "September 30, 2019"
+  },
+  {
+    "filing_folder": "0001564590-20-019931",
+    "net_sales": "$5,985",
+    "fiscal_ending_date": "March 31, 2020"
+  },
+  {
+    "filing_folder": "0001564590-20-033670",
+    "net_sales": "$6,036",
+    "fiscal_ending_date": "June 30, 2020"
+  },
+  {
+    "filing_folder": "0001564590-20-047486",
+    "net_sales": "$8,771",
+    "fiscal_ending_date": "September 30, 2020"
+  },
+  {
+    "filing_folder": "0000950170-21-000046",
+    "net_sales": "$10,389",
+    "fiscal_ending_date": "March 31, 2021"
+  },
+  {
+    "filing_folder": "0000950170-21-000524",
+    "net_sales": "$11,958",
+    "fiscal_ending_date": "June 30, 2021"
+  },
+  {
+    "filing_folder": "0000950170-21-002253",
+    "net_sales": "$13,757",
+    "fiscal_ending_date": "September 30, 2021"
+  },
+  {
+    "filing_folder": "0000950170-22-006034",
+    "net_sales": "$18,756",
+    "fiscal_ending_date": "March 31, 2022"
+  },
+  {
+    "filing_folder": "0000950170-22-012936",
+    "net_sales": "$16,934",
+    "fiscal_ending_date": "June 30, 2022"
+  },
+  {
+    "filing_folder": "0000950170-22-019867",
+    "net_sales": "$21,454",
+    "fiscal_ending_date": "September 30, 2022"
+  },
+  {
+    "filing_folder": "0000950170-23-013890",
+    "net_sales": "$23,329",
+    "fiscal_ending_date": "March 31, 2023"
+  },
+  {
+    "filing_folder": "0000950170-23-033872",
+    "net_sales": "$24,927",
+    "fiscal_ending_date": "June 30, 2023"
+  },
+  {
+    "filing_folder": "0001628280-23-034847",
+    "net_sales": "$23,350",
+    "fiscal_ending_date": "September 30, 2023"
+  },
+  {
+    "filing_folder": "0001628280-24-017503",
+    "net_sales": "$21,301",
+    "fiscal_ending_date": "March 31, 2024"
+  },
+  {
+    "filing_folder": "0001628280-24-032662",
+    "net_sales": "$25,500",
+    "fiscal_ending_date": "June 30, 2024"
+  },
+  {
+    "filing_folder": "0001628280-24-043486",
+    "net_sales": "$25,182",
+    "fiscal_ending_date": "September 30, 2024"
+  }
+]
